@@ -1,0 +1,5 @@
+Student: sai (3090) ID: 3
+Tuition: 3400
+Hostel: 2222
+Scholarship: 2222
+Total: 3400.0

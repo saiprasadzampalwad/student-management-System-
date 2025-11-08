@@ -1,0 +1,6 @@
+- [x] Update database schema to add course_id to students table
+- [x] Modify AddStudent.java to include course selection when adding students
+- [x] Update MarksEntry.java to load subjects based on the selected student's course
+- [x] Update UpdateStudent.java to allow course changes
+- [x] Test the changes by adding a student with a course, then verifying subject selection in marks entry
+- [x] Build and run the application to ensure no database connection issues
