@@ -76,7 +76,7 @@ The application uses Apache Derby (embedded database):
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the terms of the [MIT License](LICENSE).
 
 ## Recent Updates
 
